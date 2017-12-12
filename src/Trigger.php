@@ -15,8 +15,9 @@ class Trigger extends Plugin
         parent::init();
 
         // Add in our Twig extensions
-        Craft::$app->getView()->getTwig()->addExtension(
-            new TriggerExtension()
-        );
+        $twig = Craft::$app->getView()->getTwig();
+        if (!$twig->hasExtension(TriggerExtension::class)) {
+            $twig->addExtension(new TriggerExtension());
+        }
     }
 }
