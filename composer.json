@@ -1,0 +1,34 @@
+{
+  "name": "flipboxfactory/craft-twig-trigger",
+  "description": "A TWIG trigger token for Craft CMS",
+  "version": "1.0.0.rc.1",
+  "type": "craft-plugin",
+  "require": {
+    "craftcms/cms": "~3.0.0-RC1",
+    "flipboxfactory/twig-trigger": "~1.0.0-rc"
+  },
+  "require-dev": {
+    "phpunit/phpunit": "^5.0",
+    "squizlabs/php_codesniffer": "^2.0"
+  },
+  "autoload": {
+    "psr-4": {
+      "flipbox\\twig\\": "src/"
+    }
+  },
+  "autoload-dev": {
+    "psr-4": {
+      "flipbox\\twig\\tests\\": "tests/src/"
+    }
+  },
+  "extra": {
+    "name": "Trigger token for TWIG",
+    "handle": "twig-trigger",
+    "developer": "Flipbox Digital",
+    "developerUrl": "https://www.flipboxdigital.com",
+    "class": "flipbox\\twig\\Trigger",
+    "hasCpSettings": false,
+    "hasCpSection": false,
+    "schemaVersion": "1.0.0"
+  }
+}
