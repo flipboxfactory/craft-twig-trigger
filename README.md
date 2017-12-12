@@ -2,7 +2,7 @@
 [![Join the chat at https://gitter.im/flipboxfactory/craft-twig-trigger](https://badges.gitter.im/flipboxfactory/craft-twig-trigger.svg)](https://gitter.im/flipboxfactory/craft-twig-trigger?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
 [![Latest Version](https://img.shields.io/github/release/flipboxfactory/craft-twig-trigger.svg?style=flat-square)](https://github.com/flipboxfactory/craft-twig-trigger/releases)
 [![Software License](https://img.shields.io/badge/license-MIT-brightgreen.svg?style=flat-square)](LICENSE.md)
-[![Build Status](https://img.shields.io/travis/flipboxfactory/craft-twig-trigger/master.svg?style=flat-square)](https://travis-ci.com/flipboxfactory/craft-twig-trigger)
+[![Build Status](https://img.shields.io/travis/flipboxfactory/craft-twig-trigger/master.svg?style=flat-square)](https://travis-ci.org/flipboxfactory/craft-twig-trigger)
 [![Coverage Status](https://img.shields.io/scrutinizer/coverage/g/flipboxfactory/craft-twig-trigger.svg?style=flat-square)](https://scrutinizer-ci.com/g/flipboxfactory/craft-twig-trigger/code-structure)
 [![Quality Score](https://img.shields.io/scrutinizer/g/flipboxfactory/craft-twig-trigger.svg?style=flat-square)](https://scrutinizer-ci.com/g/flipboxfactory/craft-twig-trigger)
 [![Total Downloads](https://img.shields.io/packagist/dt/flipboxfactory/craft-twig-trigger.svg?style=flat-square)](https://packagist.org/packages/flipboxfactory/craft-twig-trigger)
